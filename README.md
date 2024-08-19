@@ -1,7 +1,6 @@
 # Social App Account Statements
 
 ### Badges
-
 + 1 - Social Founder
 + 2 - Social Director
 + 3 - Social Team
