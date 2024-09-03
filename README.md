@@ -1,5 +1,8 @@
 # Social App Account Statements
 
+### ID Types
++ 10 - User Id
+
 ### Account Badge Types
 + 1 - Social Founder
 + 2 - Social Director
