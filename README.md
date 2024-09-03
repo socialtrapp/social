@@ -5,7 +5,7 @@
 + 11 - DM Id
 
 ### ID System
-idType(2) + unixTimestamp(10) + randomNumber(4)
+idType(2) + unixTimestamp(10) + randomNumber(4) = id(16)
 
 ### Account Badge Types
 + 1 - Social Founder
