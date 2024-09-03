@@ -1,7 +1,11 @@
-# Social App Account Statements
+# Social App Systems
 
 ### ID Types
 + 10 - User Id
++ 11 - DM Id
+
+### ID System
+idType(2) + unixTimestamp(10) + randomNumber(4)
 
 ### Account Badge Types
 + 1 - Social Founder
