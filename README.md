@@ -7,7 +7,7 @@
 ### ID System
 id(16) = idType(2) + unixTimestamp(10) + randomNumber(4)
 
-### Account Badge Types
+### Account Badge Ranking
 + 1 - Social Founder
 + 2 - Social Director
 + 3 - Social Team
