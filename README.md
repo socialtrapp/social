@@ -3,6 +3,7 @@
 ### ID Types
 + 10 - User Id
 + 11 - DM Id
++ 12 - Message Id
 
 ### ID System
 id(16) = idType(2) + unixTimestamp(10) + randomNumber(4)
