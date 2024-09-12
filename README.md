@@ -25,3 +25,10 @@ id(16) = idType(2) + unixTimestamp(10) + randomNumber(4)
 + 2 - Idle
 + 3 - Do Not Disturb
 + 4 - In Game
+
+### Friend Value Types
++ 0 - No Friend
++ 1 - Friend
++ 2 - Pending
++ 3 - Accept Decline
++ 4 - Remove Friend
