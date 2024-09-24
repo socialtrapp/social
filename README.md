@@ -6,7 +6,7 @@
 + 12 - Message Id
 
 ### ID System
-id(16) = idType(2) + unixTimestamp(10) + randomNumber(4)
+id(20) = idType(2) + unixTimestamp(10) + millisecond(4) + randomNumber(4)
 
 ### Account Badge Ranking
 + 1 - Social Founder
