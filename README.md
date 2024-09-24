@@ -32,3 +32,8 @@ id(16) = idType(2) + unixTimestamp(10) + randomNumber(4)
 + 2 - Pending
 + 3 - Accept Decline
 + 4 - Remove Friend
+
+### Error Types
++ s101 - Database query error
++ cs101 - Token is required
++ cs102 - User Id(s) are required
