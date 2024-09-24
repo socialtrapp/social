@@ -36,4 +36,5 @@ id(16) = idType(2) + unixTimestamp(10) + randomNumber(4)
 ### Error Types
 + s101 - Database query error
 + cs101 - Token is required
-+ cs102 - User Id(s) are required
++ cs102 - User id(s) are required
++ cs103 - Token is not matching with user id (Suspicious Situation!)
