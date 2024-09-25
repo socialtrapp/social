@@ -29,9 +29,8 @@ id(20) = idType(2) + unixTimestamp(10) + millisecond(4) + randomNumber(4)
 ### Friend Value Types
 + 0 - No Friend
 + 1 - Friend
-+ 2 - Pending
-+ 3 - Accept Decline
-+ 4 - Remove Friend
++ 2 - Requesting Profile
++ 3 - Requested Profile
 
 ### Error Types
 + s101 - Unknown error
