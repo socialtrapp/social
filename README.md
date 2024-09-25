@@ -2,7 +2,7 @@
 
 ### ID Types
 + 10 - User Id
-+ 11 - DM Id
++ 11 - Channel Id
 + 12 - Message Id
 
 ### ID System
