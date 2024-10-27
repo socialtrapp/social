@@ -26,7 +26,7 @@ id(20) = idType(2) + unixTimestamp(10) + millisecond(4) + randomNumber(4)
 + 2 - Idle
 + 3 - Do Not Disturb
 + 4 - In Game
-+ 
+  
 ### Error Types
 |Error Code|Error Description|
 |----------|-----------------|
