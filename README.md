@@ -26,18 +26,14 @@ id(20) = idType(2) + unixTimestamp(10) + millisecond(4) + randomNumber(4)
 + 2 - Idle
 + 3 - Do Not Disturb
 + 4 - In Game
-
-### Friend Value Types
-+ 0 - No Friend
-+ 1 - Friend
-+ 2 - Requesting Profile
-+ 3 - Requested Profile
-
++ 
 ### Error Types
-+ s101 - Unknown error
-+ s102 - Database query error
-+ cs101 - Token is required
-+ cs102 - User id(s) are required
-+ cs103 - User id and token are required
-+ cs104 - Token is not matching with user id (Suspicious Situation!)
-+ cs105 - Invalid token
+|Error Code|Error Description|
+|----------|-----------------|
+|**s101**|Unknown error|
+|**s102**|Database query error|
+|cs101|Token is required|
+|cs102|User id(s) are required|
+|cs103|User id and token are required|
+|cs104|Token is not matching with user id (Suspicious Situation!)|
+|cs105|Invalid token|
