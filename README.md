@@ -32,8 +32,8 @@ id(20) = idType(2) + unixTimestamp(10) + millisecond(4) + randomNumber(4)
 |----------|-----------------|
 |**s101**|Unknown error|
 |**s102**|Database query error|
-|cs101|Token is required|
-|cs102|User id(s) are required|
-|cs103|User id and token are required|
-|cs104|Token is not matching with user id (Suspicious Situation!)|
-|cs105|Invalid token|
+|**cs101**|Token is required|
+|**cs102**|User id(s) are required|
+|**cs103**|User id and token are required|
+|**cs104**|Token is not matching with user id **(Suspicious Situation!)**|
+|**cs105**|Invalid token|
