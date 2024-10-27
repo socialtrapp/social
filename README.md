@@ -4,6 +4,7 @@
 + 10 - User Id
 + 11 - Channel Id
 + 12 - Message Id
++ 13 - Server Id
 
 ### ID System
 id(20) = idType(2) + unixTimestamp(10) + millisecond(4) + randomNumber(4)
