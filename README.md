@@ -6,6 +6,7 @@
 + 12 - Message Id
 + 13 - Server Id
 + 14 - Category Id
++ 15 - Role Id
 
 ### ID System
 id(20) = idType(2) + unixTimestamp(10) + millisecond(4) + randomNumber(4)
